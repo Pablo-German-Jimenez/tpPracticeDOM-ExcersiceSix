@@ -1,5 +1,8 @@
 # 🧪 Practical Project: DOM and BOM — Interactive Countdown Timer
 
+
+Deploy proyect https://excersicesixjsdom.netlify.app/
+
 This project was created as part of a practical assignment focused on **DOM (Document Object Model)** and **BOM (Browser Object Model)** usage in web development.
 
 The goal was to build an **interactive countdown timer** where the user can input a starting time, and the timer counts down from there. It includes basic controls such as **Start**, **Pause**, and **Reset**, plus visual and audio effects to enhance the user experience.
@@ -31,6 +34,5 @@ The goal was to build an **interactive countdown timer** where the user can inpu
 
 ---
 
-Deploy proyect https://excersicesixjsdom.netlify.app/
 
 ## 📁 File Structure
